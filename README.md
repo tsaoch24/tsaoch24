@@ -1,2 +1,2 @@
-- 👋 Hi, I’m CH
+- 👋 Hi, I’m CH.
 - 🌱 I’m currently learning coding.
